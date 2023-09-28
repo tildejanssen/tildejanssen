@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hejsan och välkommen till min profil👋🥰
+Detta konto kommer mestadels användas till uppgifter för webbutvecklings-programmet.
+
+**Kontakt info:**
+* 00tilja@gmail.com
+
 
 <!--
 **tildejanssen/tildejanssen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
